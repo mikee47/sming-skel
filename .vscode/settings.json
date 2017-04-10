@@ -1,0 +1,12 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  "emeraldwalk.runonsave": {
+    "commands": [
+      {
+        "match": "*.cpp",
+        "isAsync": true,
+        "cmd": "gtags ${workspaceRoot}"
+      }
+    ]
+  }
+}

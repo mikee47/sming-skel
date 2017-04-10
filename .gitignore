@@ -27,3 +27,18 @@
 *.exe
 *.out
 *.app
+
+# Sming
+out
+
+# development
+GTAGS
+GRTAGS
+GPATH
+
+# development - uncomment in project
+# .vscode
+# Makefile-user.mk
+
+# local secrets
+secrets.*
