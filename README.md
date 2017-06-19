@@ -8,4 +8,6 @@ This repository has all the bits to make start of any [Sming](https://github.com
 
 ## Licensing
 
-Because of the "skeleton" nature of this project I explicitly **do not require** that you put any attribution either in source files of your project created out of the files that form this project, or any other textual documentation. The license terms still apply and if you decide to modify and distribute this skeleton while retaining its "skeleton" nature, you are required to follow MIT license requirements.
+Because of the "skeleton" nature of this project I explicitly **do not require** that you put any attribution either in source files of your project created out of the files that form this project, or any other textual documentation. You may license your project as you see fit as well.
+
+The license terms still apply and if you decide to modify and distribute this skeleton while retaining its "skeleton" nature, you are required to follow MIT license requirements.
