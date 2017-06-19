@@ -7,4 +7,7 @@ GRTAGS
 GPATH
 
 .vscode
+Makefile-user.mk
 
+# local secrets
+secrets.*
