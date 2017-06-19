@@ -5,3 +5,7 @@ This repository has all the bits to make start of any [Sming](https://github.com
 * VS Code [C/C++ extension](https://github.com/Microsoft/vscode-cpptools) integration
 * Intellisense with help of GNU Global tools provided by [C++ Intellisense](https://github.com/austin-----/code-gnu-global) and [RunOnSave](https://github.com/emeraldwalk/vscode-runonsave) extensions
 * Build, clean and flash tasks already defined in VS Code workspace settings
+
+## Licensing
+
+Because of the "skeleton" nature of this project I explicitly **do not require** that you put any attribution either in source files of your project created out of the files that form this project, or any other textual documentation. The license terms still apply and if you decide to modify and distribute this skeleton while retaining its "skeleton" nature, you are required to follow MIT license requirements.
