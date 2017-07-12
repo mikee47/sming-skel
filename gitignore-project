@@ -5,6 +5,7 @@ out
 GTAGS
 GRTAGS
 GPATH
+GSYMS
 
 .vscode
 Makefile-user.mk
